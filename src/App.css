@@ -5,3 +5,9 @@
   text-align: center;
 }
 
+.card {
+  border: 2px solid white; 
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0.2rem 0.2rem white;
+}
